@@ -1,0 +1,13 @@
+KING PIZZA MAKERS — GITHUB DIRECT UPLOAD
+
+1. Extract this ZIP first.
+2. In GitHub kpm repository, upload all files (9 total) to the ROOT (not inside a folder). Existing index.html should be replaced.
+3. Commit changes. GitHub Pages must use main / (root).
+4. In Settings > Pages, verify Custom Domain is kpm.akaoratechnologies.in and Enforce HTTPS is enabled.
+5. Verify https://kpm.akaoratechnologies.in/social-preview.jpg opens directly.
+6. Share https://kpm.akaoratechnologies.in/ to WhatsApp. Previously cached previews may persist.
+7. Add the site to Google Search Console, submit sitemap.xml and request homepage indexing.
+8. Verify or claim the King Pizza Makers Google Business Profile with accurate address, hours and phone.
+
+GitHub Pages serves static frontend only; PHP admin/backend is NOT supported.
+SEO/rankings/AI answer positions cannot be guaranteed.
