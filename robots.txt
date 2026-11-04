@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kpm.akaoratechnologies.in/sitemap.xml
+Sitemap: https://www.kingpizzamakers.in/sitemap.xml
